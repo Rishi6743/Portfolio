@@ -6,6 +6,7 @@ import Footer from "./components/Footer";
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 import Portfolio from "./components/Portfolio";
+import Cv from "./components/Cv";
 // import Footer from "./components/Footer";
 function App() {
   return (
@@ -16,7 +17,8 @@ function App() {
         <Route element={ <Contact />} path="/contact" exact/>
         <Route element={ <About />} path="/about" exact/>
         <Route element={ <Portfolio />} path="/portfolio" exact/>
-        <Route element={ <Portfolio />} path="/portfolio" exact/>
+        <Route element={ <Cv />} path="/cv" exact/>
+        {/* <Route element={ <Portfolio />} path="/portfolio" exact/> */}
        
      </Routes>
       <Footer />
