@@ -5,133 +5,132 @@
       max-width: 800px;
       margin: 0 auto;
       padding: 2rem;
-    }
-    
-    h1 {
+}
+
+h1 {
       font-size: 3rem;
       font-weight: bold;
-    }
-    
-    h2 {
+}
+
+h2 {
       font-size: 2rem;
       color: #333;
-    }
-    
-    h3 {
+}
+
+h3 {
       font-size: 1.5rem;
       color: #555;
-    }
-    
-    a {
+}
+
+a {
       color: #ffffff;
       text-decoration: none;
-    }
-    
-    /* Header styles */
-    .header {
+}
+
+/* Header styles */
+.header {
       display: flex;
       justify-content: space-between;
       align-items: center;
       padding: 2rem 0;
       border-bottom: 2px solid #ddd;
-    }
-    
-    .header h1 {
+}
+
+.header h1 {
       margin: 0;
-    }
-    
-    /* Skills styles */
-    .skills {
+}
+
+/* Skills styles */
+.skills {
       margin: 2rem 0;
-    }
-    
-    .skills h2 {
+}
+
+.skills h2 {
       margin-top: 0;
-    }
-    
-    .skills ul {
+}
+
+.skills ul {
       list-style: none;
       margin: 0;
       padding: 0;
       display: flex;
       flex-wrap: wrap;
-    }
-    
-    .skills li {
+}
+
+.skills li {
       margin-right: 1rem;
       margin-bottom: 1rem;
       padding: 0.5rem;
       border-radius: 0.25rem;
       background-color: #f2f2f2;
-    }
-    
-    /* Projects styles */
-    .projects {
+}
+
+/* Projects styles */
+.projects {
       margin: 2rem 0;
-    }
-    
-    .projects h2 {
+}
+
+.projects h2 {
       margin-top: 0;
-    }
-    
-    .project-card {
+}
+
+.project-card {
       border: 2px solid #ddd;
       border-radius: 0.5rem;
       padding: 1rem;
       margin-bottom: 1rem;
-    }
-    
-    .project-card h3 {
+}
+
+.project-card h3 {
       margin-top: 0;
-    }
-    
-    /* Experience styles */
-    .experience {
+}
+
+/* Experience styles */
+.experience {
       margin: 2rem 0;
-    }
-    
-    .experience h2 {
+}
+
+.experience h2 {
       margin-top: 0;
-    }
-    
-    .experience-card {
+}
+
+.experience-card {
       border: 2px solid #0077c2;
       border-radius: 0.5rem;
       padding: 1rem;
       margin-bottom: 1rem;
-    }
-    
-    .experience-card h3 {
+}
+
+.experience-card h3 {
       margin-top: 0;
       color: #0077c2;
-    }
-    
-    .experience-card p {
+}
+
+.experience-card p {
       margin-top: 0.5rem;
-    }
-    
-    /* Education styles */
-    .education {
+}
+
+/* Education styles */
+.education {
       margin: 2rem 0;
-    }
-    
-    .education h2 {
+}
+
+.education h2 {
       margin-top: 0;
-    }
-    
-    .education-card {
+}
+
+.education-card {
       border: 2px solid #555;
       border-radius: 0.5rem;
       padding: 1rem;
       margin-bottom: 1rem;
-    }
-    
-    .education-card h3 {
+}
+
+.education-card h3 {
       margin-top: 0;
       color: #555;
-    }
-    
-    .education-card p {
+}
+
+.education-card p {
       margin-top: 0.5rem;
-    }
-    
+}
