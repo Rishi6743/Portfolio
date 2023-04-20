@@ -1,5 +1,5 @@
 import React from "react";
-import { Link } from "react-router-dom";
+
 
 const Hero = () => {
 
@@ -30,9 +30,9 @@ const Hero = () => {
               <button onClick={handleDownload} className="inline-flex bg-blue-500 border-0 py-2 px-6 focus:outline-none hover:bg-blue-600 rounded text-lg bg-white text-black">
               Download CV
               </button>
-         <Link to="/cv">     <button className="m-2 inline-flex bg-blue-500 border-0 py-2 px-6 focus:outline-none hover:bg-blue-600 rounded text-lg bg-white text-black">
+         {/* <Link to="/cv">     <button className="m-2 inline-flex bg-blue-500 border-0 py-2 px-6 focus:outline-none hover:bg-blue-600 rounded text-lg bg-white text-black">
          View My CV
-              </button></Link>
+              </button></Link> */}
               <span className="sm:ml-auto sm:mt-0 mt-2 sm:w-auto w-full sm:text-left text-center text-gray-400 text-sm">
                 <a href="https://github.com/Rishi6743" target="_blank" rel="noreferrer">
                   <i className="fa-brands fa-github fa-2xl mx-2"></i>
