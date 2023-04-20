@@ -134,3 +134,35 @@ a {
 .education-card p {
       margin-top: 0.5rem;
 }
+
+
+h1.cv-name {color: #00ffec;font-size: 4.5rem;}
+
+
+
+p.cv-title {
+    font-size: 2rem;
+    color: #9000ff;
+}
+
+.cv-contact {
+    margin-bottom: 15px;
+}
+
+p.cv-objective {
+    margin: 10px 0;
+}
+
+
+
+h2.cv-section-heading {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.cv-container {
+    text-align: left;
+    border: 1px solid;
+    font-family: ui-rounded;
+    margin: 19px auto;
+}
