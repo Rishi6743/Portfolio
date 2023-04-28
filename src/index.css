@@ -17,3 +17,9 @@ code {
   font-weight: bold;
   color: white;
 }
+
+
+.contact{
+  min-height: 85vh;
+  background-color: #111827;
+}

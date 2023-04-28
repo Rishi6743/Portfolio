@@ -18,8 +18,8 @@ const Footer = () => {
               ></a>
             </p>
             <span class="sm:ml-auto sm:mt-0 mt-2 sm:w-auto w-full sm:text-left text-center text-gray-400 text-sm">
-           <a href="https://github.com/Rishi6743"> <i class="fa-brands fa-github fa-2xl mx-2"></i></a>  
-          <a href="https://www.linkedin.com/in/rishipradhan/"> <i class="fa-brands fa-linkedin fa-2xl mx-2"></i></a>   
+           <a target="_blank"  href="https://github.com/Rishi6743"> <i class="fa-brands fa-github fa-2xl mx-2"></i></a>  
+          <a  target="_blank" href="https://www.linkedin.com/in/rishipradhan/"> <i class="fa-brands fa-linkedin fa-2xl mx-2"></i></a>   
               {/* <i class="fa-brands fa-instagram fa-2xl mx-2"></i> */}
             </span>
           </div>
