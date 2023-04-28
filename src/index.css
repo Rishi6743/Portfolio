@@ -19,7 +19,7 @@ code {
 }
 
 
-.contact{
-  min-height: 85vh;
+.contact, .hero{
+ height: 95vh;
   background-color: #111827;
 }
